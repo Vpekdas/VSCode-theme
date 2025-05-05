@@ -1,0 +1,26 @@
+{
+  "name": "sufocode",
+  "displayName": "Sufocode",
+  "description": "A VSCode theme inspired by sea, abyss and rust !",
+  "version": "0.0.1",
+  "publisher": "C4ptainPl0uf",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sufocode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sufocode-color-theme.json"
+      }
+    ]
+  }
+}
